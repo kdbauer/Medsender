@@ -1,0 +1,16 @@
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/bin/Debug/net6.0/graph
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/bin/Debug/net6.0/graph.deps.json
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/bin/Debug/net6.0/graph.runtimeconfig.json
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/bin/Debug/net6.0/graph.dll
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/bin/Debug/net6.0/ref/graph.dll
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/bin/Debug/net6.0/graph.pdb
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.GlobalUsings.g.cs
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.csproj.AssemblyReference.cache
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.AssemblyInfoInputs.cache
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.AssemblyInfo.cs
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.csproj.CoreCompileInputs.cache
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.dll
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/ref/graph.dll
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.pdb
+/Users/kevin.bauer@avalara.com/Documents/Code/practice/graph/obj/Debug/net6.0/graph.genruntimeconfig.cache
